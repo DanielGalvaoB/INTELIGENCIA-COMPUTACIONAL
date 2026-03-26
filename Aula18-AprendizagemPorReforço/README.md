@@ -10,3 +10,5 @@ Este repositório contém a implementação de um trabalho prático que aplica o
 ## Como executar
 
 1. Clone este repositório:
+   ```bash
+   git clone https://github.com/DanielGalvaoB/INTELIGENCIA-COMPUTACIONAL.git
